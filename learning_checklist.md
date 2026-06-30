@@ -13,7 +13,7 @@
 - [ ] Build a structured output extractor that returns valid JSON
 
 ## Phase 3: Agent Foundations
-- [ ] Build a tool-using agent with calculator/search/doc tools
+- [X] Build a tool-using agent with calculator/search/doc tools
 - [ ] Build a multi-step research agent with planning and summaries
 - [ ] Build a browser automation agent with Playwright
 

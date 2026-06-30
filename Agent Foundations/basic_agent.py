@@ -1,3 +1,4 @@
+from langchain.agents import structured_output
 from langchain_openai import OpenAI
 from langchain.agents import create_agent
 from langchain.tools import tool
